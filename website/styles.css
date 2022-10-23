@@ -1,0 +1,40 @@
+.all{
+    font-family: 'Times New Roman', Times, serif; 
+    display: flex;
+}
+.yellow-div{
+    font-size: x-large; 
+    height: 100vh;
+    margin: 2px;
+    left: 0; 
+    width: 25vw;
+    background: rgb(241, 165, 0);
+}
+.grey-div{
+    height: 100vh;
+    margin: 2px;
+    right: 0;
+    width: 75vw; 
+    background: rgb(189, 188, 188);
+}
+.header-text{
+    text-align: center;
+    color:rgb(3, 3, 183);
+    font-weight:600
+}
+.text{
+    font-size:19px;
+    text-align: center;
+}
+.table-con-red{
+    border-width: 1px ;
+    border-color: white;
+    background-color:red; 
+    color:white; 
+    text-align: center;
+}
+.table-con-grey{
+    border-width: 1px ;
+    border-color: white;
+    background-color:rgb(189, 188, 188);
+}
