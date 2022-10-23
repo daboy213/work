@@ -11,11 +11,13 @@
     background: rgb(241, 165, 0);
 }
 .grey-div{
+    
     height: 100vh;
     margin: 2px;
     right: 0;
     width: 75vw; 
     background: rgb(189, 188, 188);
+
 }
 .header-text{
     text-align: center;
@@ -37,4 +39,13 @@
     border-width: 1px ;
     border-color: white;
     background-color:rgb(189, 188, 188);
+}
+.image{
+    
+    text-align: center;
+    
+}
+table.center{
+    margin-left: auto;
+    margin-right: auto;
 }
